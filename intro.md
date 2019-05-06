@@ -1,5 +1,5 @@
 ## Why Use Docker?
- 1. Dev/Prod parody
+ 1. Consistent Dev/Prod 
  2. Simplifying Configuration
  3. Code Pipeline Management
  4. Developer Productivity
