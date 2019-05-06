@@ -84,4 +84,19 @@ A container is a standard unit of software that packages up code and all its dep
 - All changes are stored in the writable layer
 - The writable layer is deleted when the container is deleted
 - The image remains unchanged
+
+## Docker Hub
+
+### Docker Hub:
+- Public Docker registry
+- Provided by Docker
+
+### Features:
+- Repositories
+- Teams and Organizations
+- Official Images
+- Publisher Images
+- Builds
+- Webhooks
+- https://hub.docker.com/signup
  
