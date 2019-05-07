@@ -1,3 +1,9 @@
+Run your very first docker container before you event start continue reading the below:
+```bash
+ docker run hello-world
+ # try to run twice, and spot what is the differences!
+```
+
 ## Why Use Docker?
  1. Consistent Dev/Prod 
  2. Simplifying Configuration
